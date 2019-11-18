@@ -1,2 +1,6 @@
-# unity.system.memory
-experimental package
+# system.memory
+
+from https://www.nuget.org/packages/System.Memory/
+
+`System.Span` for `.NET Standard 2.0`
+
