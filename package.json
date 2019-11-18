@@ -3,6 +3,6 @@
     "version": "0.0.1",
     "displayName": "System.Memory",
     "unity": "2019.1",
-    "description": "https://www.nuget.org/packages/System.Memory/",
+    "description": "from https://www.nuget.org/packages/System.Memory/",
     "dependencies": {}
 }
